@@ -60,4 +60,4 @@ Building a home thermometer on an ESP32 in Rust. Next step: sending the readings
 ## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:meissnermw@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/DEIN-PROFIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martenmeissner-developer)
