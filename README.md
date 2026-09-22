@@ -23,7 +23,7 @@ Added a ticket resale marketplace in 10/2025 (Stripe Connect, Azure AD B2C, C# b
 
 ### Public
 
-**[EventHub](https://github.com/meissnerM224/EventHub)** — ticket exchange platform, team of three (2023–2024)  
+**[EventHub](https://github.com/meissnerM224/EventHub)** — ticket exchange platform  
 Designed the concept, built the REST API with caching logic and a Blazor frontend, set up CI/CD. Written in C# / .NET.
 
 ## 🛠️ Tech I work with
