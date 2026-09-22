@@ -8,9 +8,9 @@ I also train apprentices in application development (IHK-certified trainer, AEVO
 
 ### At work *(closed source)*
 
-**Kassel Huskies Fan App** — sole developer, live since 10/2024
-Flutter client, Firebase backend, TypeScript Cloud Functions, automated releases via Codemagic & GitHub Actions.
-~8,000 users · 99%+ crash-free · 4.6 ★ in the App Store · releases every 3–4 weeks.
+**Kassel Huskies Fan App** — sole developer, live since 10/2024  
+Flutter client, Firebase backend, TypeScript Cloud Functions, automated releases via Codemagic & GitHub Actions.  
+~8,000 users · 99%+ crash-free · 4.6 ★ in the App Store · releases every 3–4 weeks.  
 Added a ticket resale marketplace in 10/2025 (Stripe Connect, Azure AD B2C, C# backend).
 
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/de/app/kassel-huskies/id6483254050)
@@ -23,7 +23,7 @@ Added a ticket resale marketplace in 10/2025 (Stripe Connect, Azure AD B2C, C# b
 
 ### Public
 
-**[EventHub](https://github.com/meissnerM224/EventHub)** — ticket exchange platform, team of three (2023–2024)
+**[EventHub](https://github.com/meissnerM224/EventHub)** — ticket exchange platform, team of three (2023–2024)  
 Designed the concept, built the REST API with caching logic and a Blazor frontend, set up CI/CD. Written in C# / .NET.
 
 ## 🛠️ Tech I work with
