@@ -23,8 +23,12 @@ Added a ticket resale marketplace in 10/2025 (Stripe Connect, Azure AD B2C, C# b
 
 ### Public
 
-**[EventHub](https://github.com/meissnerM224/EventHub)** — ticket exchange platform  
-Designed the concept, built the REST API with caching logic and a Blazor frontend, set up CI/CD. Written in C# / .NET.
+**[EventHub](https://github.com/meissnerM224/EventHub)** — event platform backend, built solo  
+[![CI](https://github.com/meissnerM224/EventHub/actions/workflows/ci.yaml/badge.svg)](https://github.com/meissnerM224/EventHub/actions/workflows/ci.yaml)
+[![Release](https://github.com/meissnerM224/EventHub/actions/workflows/release.yaml/badge.svg)](https://github.com/meissnerM224/EventHub/actions/workflows/release.yaml)  
+C# / ASP.NET Core with PostgreSQL, Redis caching, JWT auth and integration tests running against real containers (Testcontainers). Redis cuts the median response time of the event list from 10 ms to 4 ms.  
+GitHub Actions builds, tests and publishes a container image; Docker Compose pulls that published image, so a fresh machine runs the API with one command.  
+Next up: a React frontend on top of the API.
 
 ## 🛠️ Tech I work with
 
@@ -55,7 +59,7 @@ Going deeper into C# / .NET to take on more backend work.
 
 ## 🏠 Outside work
 
-Building a home thermometer on an ESP32 in Rust. Next step: sending the readings via MQTT to a Raspberry Pi and showing them on a small web dashboard I can reach at home or on the go through WireGuard. The Pi also runs Pi-hole for my home network.
+Building a home thermometer on an ESP32 in Rust ([esp32-temperatur](https://github.com/meissnerM224/esp32-temperatur)). Next step: sending the readings via MQTT to a Raspberry Pi and showing them on a small web dashboard I can reach at home or on the go through WireGuard. The Pi also runs Pi-hole for my home network.
 
 ## 📫 Contact
 
