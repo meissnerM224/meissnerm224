@@ -27,7 +27,8 @@ Added a ticket resale marketplace in 10/2025 (Stripe Connect, Azure AD B2C, C# b
 
 [![CI](https://github.com/meissnerM224/EventHub/actions/workflows/ci.yaml/badge.svg?branch=develop)](https://github.com/meissnerM224/EventHub/actions/workflows/ci.yaml)
 [![Web](https://github.com/meissnerM224/EventHub/actions/workflows/web.yaml/badge.svg?branch=develop)](https://github.com/meissnerM224/EventHub/actions/workflows/web.yaml)
-[![Release](https://github.com/meissnerM224/EventHub/actions/workflows/release.yaml/badge.svg?branch=main)](https://github.com/meissnerM224/EventHub/actions/workflows/release.yaml)
+[![Release](https://github.com/meissnerM224/EventHub/actions/workflows/release.yaml/badge.svg?branch=main)](https://github.com/meissnerM224/EventHub/actions/workflows/release.yaml)  
+
 C# / ASP.NET Core with PostgreSQL, Redis caching, JWT auth and integration tests running against real containers (Testcontainers). Redis cuts the median response time of the event list from 10 ms to 4 ms.  
 GitHub Actions builds, tests and publishes a container image; Docker Compose pulls that published image, so a fresh machine runs the API with one command.  
 Next up: a React frontend on top of the API.
